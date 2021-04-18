@@ -10,6 +10,7 @@ sites:
     url: https://app.mailcheck.co
   - name: API singleEmail
     url: https://api.mailcheck.co/v1/singleEmail:check
+    method: POST
     headers:
       - "Authorization: Bearer $APIKEY"
       - "Content-Type: application/json"
