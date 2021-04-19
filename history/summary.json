@@ -40,17 +40,17 @@
     "url": "https://api.mailcheck.co/v1/singleEmail:check",
     "icon": "https://favicons.githubusercontent.com/api.mailcheck.co",
     "slug": "api-single-email",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 14123,
-    "timeDay": 14123,
-    "timeWeek": 14123,
-    "timeMonth": 14123,
-    "timeYear": 14123,
+    "time": 15341,
+    "timeDay": 15341,
+    "timeWeek": 15341,
+    "timeMonth": 15341,
+    "timeYear": 15341,
     "dailyMinutesDown": {}
   }
 ]
