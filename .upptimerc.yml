@@ -30,6 +30,8 @@ sites:
       - 404
     maxResponseTime: 5000
     icon: https://www.mailcheck.co/favicon.png
+assignees:
+  - nosovk
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
