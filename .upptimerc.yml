@@ -25,8 +25,8 @@ status-website:
   theme: dark
   logoUrl: https://raw.githubusercontent.com/MailCheck-co/mailcheck.site/master/static/assets/img/mailcheck-logo.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Current ststus of Mailcheck.co services
+  introTitle: "**Mailcheck** Email validations and contact enrichment service."
+  introMessage: "Current ststus of [Mailcheck.co](https://www.mailcheck.co) services:"
   status-website:
   favicon: https://www.mailcheck.co/favicon.png
   navbar:
