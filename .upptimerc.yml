@@ -7,17 +7,12 @@ sites:
   - name: landing
     url: https://www.mailcheck.co
   - name: landing 404 test
-    url: https://www.mailcheck.co/404
+    url: https://www.mailcheck.co/not-exist
     expectedStatusCodes:
       - 404
   - name: cabinet
     url: https://app.mailcheck.co
     icon: https://www.mailcheck.co/favicon.png
-  - name: cabinet 404 test
-    url: https://app.mailcheck.co/404
-    icon: https://www.mailcheck.co/favicon.png
-    expectedStatusCodes:
-      - 404
   - name: API singleEmail
     url: https://api.mailcheck.co/v1/singleEmail:check
     method: POST
