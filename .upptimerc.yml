@@ -38,10 +38,9 @@ status-website:
   # baseUrl: /upptime
   theme: dark
   logoUrl: https://raw.githubusercontent.com/MailCheck-co/mailcheck.site/master/static/assets/img/mailcheck-logo.svg
-  name: Upptime
+  name: Uptime
   introTitle: "**Mailcheck** Email validations and contact enrichment service."
   introMessage: "Current ststus of [Mailcheck.co](https://www.mailcheck.co) services:"
-  status-website:
   favicon: https://www.mailcheck.co/favicon.png
   navbar:
     - title: Status
