@@ -54,6 +54,7 @@ commitMessages:
   commitAuthorName: "Status Bot"
   commitAuthorEmail: "status@mailcheck.co"
 user-agent: MailCheck-co-status
+skipPoweredByReadme: true;
 
 
 # Upptime also supports notifications, assigning issues, and more
