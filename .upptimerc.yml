@@ -8,6 +8,7 @@ sites:
     url: https://www.mailcheck.co
   - name: cabinet
     url: https://app.mailcheck.co
+    icon: https://www.mailcheck.co/favicon.png
   - name: API singleEmail
     url: https://api.mailcheck.co/v1/singleEmail:check
     method: POST
@@ -16,6 +17,7 @@ sites:
       - "Content-Type: application/json"
     body: '{ "email": "nosov@nodeart.io" }'
     maxResponseTime: 20000
+    icon: https://www.mailcheck.co/favicon.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
