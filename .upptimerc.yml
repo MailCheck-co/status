@@ -36,7 +36,6 @@ sites:
     headers:
       - "Authorization: Bearer $APIKEY"
       - "Content-Type: application/json"
-    __dangerous__body_down_if_text_missing: '97454'
     icon: https://www.mailcheck.co/favicon.png
 assignees:
   - nosovk
