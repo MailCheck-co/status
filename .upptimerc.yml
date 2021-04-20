@@ -63,6 +63,7 @@ commitMessages:
   commitAuthorEmail: "status@mailcheck.co"
 user-agent: MailCheck-co-status
 skipPoweredByReadme: true;
+PAT: $GH_PAT
 i18n:
   footer: This page is [open source]($REPO)
 
