@@ -30,12 +30,6 @@ sites:
       - 404
     maxResponseTime: 5000
     icon: https://www.mailcheck.co/favicon.png
-  - name: API operations get one
-    url: https://api.mailcheck.co/v1/emails/operations/dfc72926-b7f8-4f22-878c-03377fb8e325
-    method: GET
-    maxResponseTime: 5000
-    __dangerous__body_down_if_text_missing: 'processedCount: 97454'
-    icon: https://www.mailcheck.co/favicon.png
 assignees:
   - nosovk
 
