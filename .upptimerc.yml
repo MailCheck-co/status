@@ -15,21 +15,32 @@ sites:
       - "Authorization: Bearer $APIKEY"
       - "Content-Type: application/json"
     body: '{ "email": "nosov@nodeart.io" }'
+    maxResponseTime: 20000
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: status.mailcheck.co
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
+  theme: dark
   logoUrl: https://raw.githubusercontent.com/MailCheck-co/mailcheck.site/master/static/assets/img/mailcheck-logo.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: Current ststus of Mailcheck.co services
+  status-website:
+  favicon: https://www.mailcheck.co/favicon.png
   navbar:
     - title: Status
       href: /
+    - title: Mailcheck
+      href: https://www.mailcheck.co
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+commitMessages:
+  commitAuthorName: "Status Bot"
+  commitAuthorEmail: "status@mailcheck.co"
+user-agent: MailCheck-co-status
+
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
