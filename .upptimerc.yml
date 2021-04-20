@@ -26,6 +26,7 @@ sites:
       - "Content-Type: application/json"
     body: '{ "email": "nosov@nodeart.io" }'
     maxResponseTime: 20000
+    __dangerous__body_down_if_text_missing: '"smtpExists": true';
     icon: https://www.mailcheck.co/favicon.png
   - name: API singleEmail wrong method
     url: https://api.mailcheck.co/v1/singleEmail:check
