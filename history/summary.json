@@ -94,17 +94,17 @@
     "url": "https://api.mailcheck.co/v1/emails/operations/dfc72926-b7f8-4f22-878c-03377fb8e325",
     "icon": "https://www.mailcheck.co/favicon.png",
     "slug": "api-operations-get-one",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 916,
-    "timeDay": 1082,
-    "timeWeek": 951,
-    "timeMonth": 951,
-    "timeYear": 903,
+    "time": 941,
+    "timeDay": 2224,
+    "timeWeek": 1252,
+    "timeMonth": 1026,
+    "timeYear": 928,
     "dailyMinutesDown": {}
   }
 ]
