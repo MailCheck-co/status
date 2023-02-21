@@ -1,7 +1,7 @@
 url: https://api.mailcheck.co/v1/singleEmail:check
 status: up
 code: 200
-responseTime: 15624
-lastUpdated: 2023-02-20T23:18:30.425Z
+responseTime: 15759
+lastUpdated: 2023-02-21T23:18:47.443Z
 startTime: Sun Apr 18 2021 21:24:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
