@@ -1,7 +1,7 @@
 url: https://api.mailcheck.co/v1/singleEmail:check
 status: up
 code: 404
-responseTime: 171
-lastUpdated: 2023-03-27T23:18:25.210Z
+responseTime: 162
+lastUpdated: 2023-03-29T23:17:28.532Z
 startTime: Tue Apr 20 2021 04:34:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
